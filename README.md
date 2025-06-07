@@ -16,13 +16,13 @@ Each cell interacts with its **8 neighbors** (horizontal, vertical, and diagonal
 4. **Reproduction**  
    A dead cell with **exactly 3 live neighbors** becomes alive.
 
-## 🧠 How it Works
+##  How it Works
 
 - The rules are applied **simultaneously** to every cell in the grid.
 - The new state of each cell is determined based on the current configuration.
 - This process is repeated for each generation.
 
-## 🚀 Example Use Cases
+##  Example Use Cases
 
 - Simulation of natural selection and evolution
 - Study of emergence and complexity
