@@ -22,6 +22,11 @@ Each cell interacts with its **8 neighbors** (horizontal, vertical, and diagonal
 - The new state of each cell is determined based on the current configuration.
 - This process is repeated for each generation.
 
+  ![image](https://github.com/user-attachments/assets/b50bafef-97af-4f96-82c2-27a7fc3b1ea3)
+  ![image](https://github.com/user-attachments/assets/65e1cfaa-b8be-4738-a670-d6ca305a93b9)
+
+
+
 ##  Example Use Cases
 
 - Simulation of natural selection and evolution
