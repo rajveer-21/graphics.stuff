@@ -35,3 +35,4 @@ Each cell interacts with its **8 neighbors** (horizontal, vertical, and diagonal
 
 
 🧙‍♀️🧹🪄 zullie was here!
+⚔️⚔️⚔️ alva was here too!
