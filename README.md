@@ -34,5 +34,5 @@ Each cell interacts with its **8 neighbors** (horizontal, vertical, and diagonal
 - Basis for algorithmic pattern formation
 
 
-🧙‍♀️🧹🪄 zullie was here!
+🧙‍♀️🪄🧙‍♀️ zullie was here!
 ⚔️⚔️⚔️ alva was here too!
