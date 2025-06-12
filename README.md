@@ -32,3 +32,6 @@ Each cell interacts with its **8 neighbors** (horizontal, vertical, and diagonal
 - Simulation of natural selection and evolution
 - Study of emergence and complexity
 - Basis for algorithmic pattern formation
+
+
+🧙‍♀️🧹🪄 zullie was here!
