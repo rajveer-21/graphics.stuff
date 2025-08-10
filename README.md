@@ -1,5 +1,5 @@
 # Conways Game Of Life
-Implements the game of life using javax.swing and java.awt components. It's not toroidal right now, but I'll make it into that soon. It's rainbow colored and alive cells are represented by circles. It follows the standard rules of the simulator. Have fun generating
+Implements the game of life using javax.swing and java.awt from Java components. A second implementation was written in SFML from C++. It's rainbow colored and alive cells are represented by circles also it follows the toroidal format. It follows the standard rules of the simulator. Have fun generating!
 
 
 Each cell interacts with its **8 neighbors** (horizontal, vertical, and diagonal adjacent cells). The following rules determine the next state of each cell:
