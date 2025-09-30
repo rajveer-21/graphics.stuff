@@ -25,6 +25,7 @@ Each cell interacts with its **8 neighbors** (horizontal, vertical, and diagonal
   ![image](https://github.com/user-attachments/assets/b50bafef-97af-4f96-82c2-27a7fc3b1ea3)
   ![image](https://github.com/user-attachments/assets/65e1cfaa-b8be-4738-a670-d6ca305a93b9)
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c5043204-de5a-4e5a-8599-4a7516a4da81" />
+   ![1758526489_new_20250922001016_1](https://github.com/user-attachments/assets/76bdb7df-8e5c-407e-918e-68d3b82b31f1)
 
   ![1000128773](https://github.com/user-attachments/assets/be557b62-75b9-489e-8fe0-0f9331fee1f9)
 
