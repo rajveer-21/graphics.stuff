@@ -1,6 +1,6 @@
 # Colors and Graphics
 
-##Conway's Game Of Life**  
+## Conway's Game Of Life   
 Implements the game of life using javax.swing and java.awt from Java components. A second implementation was written in SFML from C++. It's rainbow colored and alive cells are represented by circles also it follows the toroidal format. It follows the standard rules of the simulator. Have fun generating!
 
 
