@@ -1,6 +1,6 @@
 # Colors and Graphics
 
-**A -> Conway's Game Of Life**  
+##Conway's Game Of Life**  
 Implements the game of life using javax.swing and java.awt from Java components. A second implementation was written in SFML from C++. It's rainbow colored and alive cells are represented by circles also it follows the toroidal format. It follows the standard rules of the simulator. Have fun generating!
 
 
@@ -18,7 +18,7 @@ Each cell interacts with its **8 neighbors** (horizontal, vertical, and diagonal
 4. **Reproduction**  
    A dead cell with **exactly 3 live neighbors** becomes alive.
 
-##  How it Works
+###  How it Works
 
 - The rules are applied **simultaneously** to every cell in the grid.
 - The new state of each cell is determined based on the current configuration.
