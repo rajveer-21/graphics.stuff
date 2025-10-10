@@ -37,7 +37,7 @@ Each cell interacts with its **8 neighbors** (horizontal, vertical, and diagonal
 - Study of emergence and complexity
 - Basis for algorithmic pattern formation
 
-## ClothSimulatorVerlet
+## Verlet Integration Based Cloth Simulator
 A cloth simulator using verlet integration and with the usage of wind and gravity!
 
 ### A GUI based cloth sim using verlet integration
