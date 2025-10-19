@@ -31,7 +31,7 @@ Each cell interacts with its **8 neighbors** (horizontal, vertical, and diagonal
   ![1000128773](https://github.com/user-attachments/assets/be557b62-75b9-489e-8fe0-0f9331fee1f9)
 
 
-##  Example Use Cases
+### Example Use Cases
 
 - Simulation of natural selection and evolution
 - Study of emergence and complexity
